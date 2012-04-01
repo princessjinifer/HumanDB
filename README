@@ -1,0 +1,18 @@
+A simple database program that keeps records of people
+
+You create each person, and store information within their file, I will be adding profile fields when I figure that out.
+
+To download and install
+-----------------------
+
+Download the file files.cpp
+Compile it with your compiler.
+Make a folder and name it what you want, maybe something like HumanDB
+Put the executable in that folder, then create a folder in that folder and name it "profiles", that is where each profile will be kept :)
+
+Hope you enjoy!
+
+Contact me at Twitter and Google+
+
+http://twitter.com/#!/princessjinifer
+http://profiles.google.com/princesjinifer
